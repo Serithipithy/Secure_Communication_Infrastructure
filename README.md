@@ -9,5 +9,3 @@ Implementati o infrastructura de comunicatie ce foloseste criptosistemul  AES pe
 3. Dupa primirea mesajului de confirmare de la B (referitor la inceperea comunicarii), A incepe sa trimita catre B continutul unui fisier criptat pe blocuri folosind modul selectat. Nodul B va decripta blocurile primite si va afisa rezultatul obtinut.  
  
 Observatie Se accepta orice limbaj si folosirea oricarei librarii pentru implementare. AES poate fi folosit ca algoritm de criptare pus la dispozitie de orice librarie criptografica. Modul de operare (ECB si OFB) se cere sa fie implementat in cadrul temei. Nu se cere rezolvarea de eventuale probleme de sincronizare intre noduri, interfata pentru noduri, sau un anumit protocol de comunicare. 
- 
-Termen de predare pe google classroom  pana pe data de 21 octombrie (preferabil link spre un repository cu resursele). Finalizarea evaluarii temei va avea loc in laboratorul din data de 22 octombrie.
