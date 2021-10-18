@@ -1,0 +1,3 @@
+https://www.dlitz.net/software/pycrypto/
+https://python-docs.readthedocs.io/en/latest/scenarios/crypto.html
+https://www.youtube.com/watch?v=bSjtV2IxpR8 - ECB algorithm mode 
